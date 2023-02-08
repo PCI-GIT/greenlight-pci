@@ -232,7 +232,7 @@ fr:
         valid: Valide
       title: Gérer les utilisateurs
   add_to_google_calendar: "Ajouter au calendrier Google"
-  bigbluebutton: BigBlueButton
+  bigbluebutton: BigBlueButton - PCI
   bigbluebutton_exception: "Oups, une erreur s'est produite lors du démarrage de la réunion !"
   cancel: Annuler
   cookies:
@@ -304,13 +304,13 @@ fr:
   footer:
     legal: Conditions d'utilisation
     privpolicy: Politique de confidentialité
-    powered_by: "Conçu par %{href}."
+    powered_by: "Serveur int&#233;gr&#233; par %{href}."
   forgot_password:
     subtitle: Mot de passe oublié
     email: Email
     submit: Soumettre
   go_back: Retour
-  greenlight: Greenlight
+  greenlight: Performance Conseil Informatique
   header:
     all_recordings: Tous les enregistrements
     dropdown:
@@ -335,8 +335,8 @@ fr:
     search:
       start: Commencer la recherche...
   landing:
-    about: "%{href} est une interface simple pour votre serveur de web- conférence open-source BigBlueButton. Vous pouvez créer vos propres salles pour héberger des sessions ou  en rejoindre d'autres  via un lien court et pratique. "
-    welcome: Bienvenue sur BigBlueButton.
+    about: "Le Big Blue Button de Performance Conseil Informatique est un outil de web-conférence. Vous pouvez créer vos propres salles pour héberger des sessions ou  en rejoindre d'autres  via un lien court et pratique. "
+    welcome: Bienvenue sur le BigBlueButton de PCI.
     video: Regardez notre tutoriel sur l'utilisation de Greenlight
     upgrade: Montrez-moi comment passer à la version 2.0 !
     version: "Nous avons publié une nouvelle version de Greenlight, mais votre base de données n'est pas compatible."
